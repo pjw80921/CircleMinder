@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/c4eb6e69-963b-4cf3-86e9-7087d1b5b9a3
 
 ## 安装指南
 
-请在 GitHub 的 [Releases](https://github.com/pjw80921/CircleMinder/releases/latest) 页面下载最新的 `.dmg` 安装包，或者选择从源码编译。
+请在 GitHub 的 [Releases](https://github.com/pjw80921/CircleMinder/releases/tag/v1.0.0) 页面下载最新的 `.dmg` 安装包，或者选择从源码编译。
 
 ## 从源码构建
 
